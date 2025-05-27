@@ -1,15 +1,10 @@
 <h1 align="center">👋 ¡Hola! Soy <a href="https://github.com/AlbertoProaza" target="blank">[Alberto García López]</a></h1>
-<h3 align="center">💻 Fullstack Developer apasionado por Laravel, React y todo lo relacionado con la web 🚀</h3>
+<h3 align="center">💻 Front-End Web Developer & B2B Digital Content Specialist🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=00ffe7&style=flat-square" alt="tuusuario" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/tuusuario" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tuusuario?logo=twitter&style=for-the-badge" alt="tuusuario" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="code" width="400"/>
@@ -32,11 +27,11 @@
 
 ### 🛠️ En este momento...
 
-- 🔭 Trabajando en proyectos Laravel + Vue/React
+- 🔭 Trabajando en proyectos Laravel + Vue
 - 🌱 Aprendiendo más sobre Inertia.js, testing avanzado y arquitectura limpia
 - 💬 Pregúntame sobre **Laravel, Vue, React, PHP, y cómo conectar todo**
 - 🤝 Abierto a colaboraciones y proyectos freelance
-- 📫 Contacto: **tuemail@dominio.com**
+- 📫 Contacto: **albertoproaza04@gmail.com**
 
 ---
 
@@ -65,7 +60,7 @@
 
 ---
 
-🕹️ Hecho con ❤️ por [Tu Nombre]
+🕹️ Hecho con ❤️ por [Alberto García López]
 
-🕒 Última actualización: {{coloca-fecha-aquí}}
+🕒 Última actualización: {{27 de Mayo 2025}}
 
