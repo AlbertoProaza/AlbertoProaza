@@ -53,7 +53,7 @@
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/alberto-garc%C3%ADa-l%C3%B3pez-1664a3334" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a>
   <a href="https://github.com/tuusuario" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/></a>
   <a href="https://stackoverflow.com/users/tuusuario" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-logo-color-tal-revivo.png"/></a>
   <a href="https://dev.to/tuusuario" target="_blank"><img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"/></a>
